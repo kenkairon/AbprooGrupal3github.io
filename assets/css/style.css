@@ -6,6 +6,9 @@ body{
 font-family: 'Poppins', sans-serif;;
 width:100%;
 }
+h1,p{
+    font-weight:bold;
+}
 /* FUENTE DE LETRA DEL NAV */
 /*nav {
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
